@@ -87,8 +87,7 @@ $ npm start
 ```
 
 # 📔 Licença
-Este projeto está sobre a licença GLP-3.0. Veja o arquivo [LICENSE](https://github.com/rqueiroz2108/ecoleta/blob/master/LICENSE)
-para mais detalhes.
+Este projeto está sobre a [LICENÇA GLP-3.0](https://github.com/rqueiroz2108/ecoleta/blob/master/LICENSE).
 
 
 # ✨ Agradecimentos
