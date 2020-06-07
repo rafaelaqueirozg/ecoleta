@@ -11,8 +11,6 @@ O Ecoleta é uma aplicação que visa conectar pessoas a estabelecimentos com o 
 
 ![image](https://user-images.githubusercontent.com/42815135/83978693-950c3500-a8df-11ea-8909-fd969f760ac1.png)
 
-![GitHub top language](https://img.shields.io/github/languages/top/rqueiroz2108/ecoleta)
-
 
 # 🚀 Tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
@@ -97,6 +95,6 @@ para mais detalhes.
 Quero agradecer ao [Rocketseat](https://github.com/Rocketseat) por esse Next Level Week, onde aprendi muito e quebrei várias
 crenças limitantes que tinha sobre mim. Agora, estou mais do que pronta para ir para o **próximo nível**.
 
-## Feito por [Rafaela Queiroz](https://github.com/rqueiroz2108)
-![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaelaqueiroz21%2F)
 
+
+<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/rafaelaqueiroz21/">Rafaela Queiroz</a></h2>
